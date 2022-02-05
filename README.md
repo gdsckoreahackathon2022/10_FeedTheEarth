@@ -22,7 +22,10 @@ https://github.com/gdsckoreahackathon2022/10_feedTheEarth/releases/tag/apk
 
 ## 앱 구동 화면
 ### 스플래시 화면
-![jpg_1](./img/img1.png)
+![jpg_1](./img/img1.png)   
+
+
+
 ### 초기화면 및 기능
 ![jpg_2](./img/img2.png)
 1. 오른쪽 상단에 목표들이 3개씩 띄워짐
@@ -30,8 +33,14 @@ https://github.com/gdsckoreahackathon2022/10_feedTheEarth/releases/tag/apk
 3. 목표를 완료하였을 경우 개당 포인트 1점, 총 포인트 20점 획득시 미션완료
 4. 3포인트를 획득할 때마다 꽃의 갯수가 늘어나며 꽃잎에 색이 칠해지게 됨
 
+
+
+   
 ### 최종 화면
-![jpg_3](./img/img3.png)
+![jpg_3](./img/img3.png)   
+
+
+
 ## 확장 방향성
 1. 목표 스와이프 시 소리 기능 추가
 2. 자동 초기화 기능 추가
